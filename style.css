@@ -1,0 +1,157 @@
+*{
+
+    margin: 0px;
+    font-family:"imter";
+    padding: 0px;
+}
+
+#partesuperior{
+    margin-left: 400px;
+    
+    background-color: #303030;
+    width: 891px;
+    color: #ffffff;
+}
+#titulosuperior{
+    background-color: #303030;
+    
+}
+#h1{
+   color: aliceblue;
+}
+#paragrafocorpo{
+    
+    margin-right: 300px;
+    text-justify: auto;
+    
+}
+#corpoimagem{
+    margin-right: -300px;  
+}
+#corpo{
+    margin-right:500px;
+
+    margin: 3000px 100px 500px 750px;  
+}
+#Represa{
+    margin: -500px 0px 50px 75px; 
+}
+*/
+#a{
+    margin-left:300px;   
+    
+}    
+#Experiência{
+    
+    width: 600px;   /*   tamanho total*/
+    float: right; /* ou right, dependendo do alinhamento desejado */
+    margin-top: 230px;     /*   margen*/
+    margin-right: 0px; /* para dar um espaço entre a imagem e o texto */
+}
+
+
+#t{
+    
+    color:black;
+    Height: 920px;  /*   margen*/  
+    margin-top: 46px;
+    font-weight: normal ;   /*   tamanho da letra normal */
+   margin-left: 100px;
+    font-family:"imter"; 
+}
+
+#MenusuPerior{
+    background-image: url(imagenxp/img1.png);          /* cor fundo*/
+    width: 1440px;   /*   margen*/
+    Height:445px;  /*   margen*/ 
+    margin-left:  4px;
+    }
+#paragrafosuperior{
+    margin-left:  80px;                  /*   margen*/
+}
+
+#p{
+    color:#303030;
+      
+   /* margin-top: 430px;   */           /*   margen*/
+   margin-bottom: 20px;
+
+   
+}
+#linha{
+    float: right; /* ou right, dependendo do alinhamento desejado */
+    margin-right: 555px; /* para dar um espaço entre a imagem e o texto */
+    
+   
+}
+#g{
+    font-size: 28px;   /*   tamanho da letra negrito */
+    margin-left: 100px;
+    margin-top: 460px;
+}
+#ts{
+     
+      
+}
+     /* formulario*/ 
+#formulario{
+  
+    text-align: center; 
+    color: #ffffff;
+    
+}
+         /* titolo / f*/
+#titolo-formulario{
+    text-align: center;
+  color: #ffffff;
+   font-size: 35px;
+   background-color: #303030;
+  
+   
+  
+  
+   
+}
+#texto{
+   color: #ffffff;
+    text-align: center;
+  
+      
+}
+      /* textebox email/nome*/
+input{
+    width: 269px;          /*   tamanho largura*/
+    height: 43px;         /*   tamanho altura */
+    background-color: #ffffff; /* cor fundo*/ 
+    margin: 15px;    /* espaço entre os botao*/
+    border: 0px;     /* tirar borda do texte box*/
+    border-radius:  5;      /* tira rcurvatura texte box*/
+    padding-left: 10px;  /* espaço interno do texte box*/
+}
+      /* Botao*/
+button{
+    color: #eaece5;      /* cor TEXTO*/
+    width: 250px;          /*   tamanho largura*/
+    height: 43px;         /*   tamanho altura */
+    background-color: #247ba0; /* cor fundo*/ 
+    margin-bottom:  200px;       /* margem botao fim pagina*/ 
+    border: 0px;
+    border: 5;
+    padding-left: 10px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+        /* Botao*/ 
+button:hover{
+    background-color: #486fda; /* cor fundo*/ 
+    color:white;      /* cor da linha texto*/
+    transform: translatey(-7px); /* traladar o botao*/
+    box-shadow: 0px 15px 20px  #233238    ; /* cor sonbra do botao*/
+   transition-duration: 0.5px; /* cor sonbra do botao*/
+
+}
+.teste{
+    color:#486fda;
+    background-color: #486fda; /* cor fundo*/ 
+   
+  }
